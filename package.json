@@ -1,0 +1,27 @@
+{
+  "name": "webtestingpuppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --forceExit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://eriksmedina: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@github.com/eriksmedina/webTestingPuppeteer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eriksmedina/webTestingPuppeteer/issues"
+  },
+  "homepage": "https://github.com/eriksmedina/webTestingPuppeteer#readme",
+  "dependencies": {
+    "jest": "^27.5.1",
+    "puppeteer": "^13.5.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
